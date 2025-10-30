@@ -949,7 +949,7 @@ body::-webkit-scrollbar-thumb {
   background: linear-gradient(180deg, #171717 0%, rgba(23, 23, 23, 0.26) 100%), url(../images/hero/hero-bg-img-3.png);
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 188px 0 112px;
+  padding: 60px 0 50px;
   background-position: center;
 }
 
